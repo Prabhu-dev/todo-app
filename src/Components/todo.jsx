@@ -71,7 +71,7 @@ const Todo = () => {
                     (<div className="no-todo">
                     <p>No Tasks Found...</p>
                     <div>
-                        {String.fromCodePoint('0x1F440')}
+                        {String.fromCodePoint('0x1F644')}
                     </div>  
                     </div> 
                     ) 
