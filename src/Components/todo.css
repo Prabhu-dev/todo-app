@@ -1,0 +1,49 @@
+.input-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    column-gap: 10px;
+    font-family: "Righteous", serif;
+    font-size: larger;
+    font-style: normal;
+}
+
+.heading-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#input-text {
+    padding: 10px;
+    outline: none;
+    border: none;
+    font-family: "Righteous", serif;
+}
+
+.list-text {
+    color: black;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.no-todo {
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+    color: black;
+}
+
+p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    align-items: center;
+    text-align: left;
+}
+
+.main-container {
+    background-color: rgba(255, 255, 255, 0.748);
+    padding: 15px;
+    color: #060606;
+}
